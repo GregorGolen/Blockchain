@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Blockchain/task/build/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/

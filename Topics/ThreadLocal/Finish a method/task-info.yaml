@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class UseThreadLocal {
+        public static ThreadLocal<Integer> makeThreadLocal(int counter) {
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23989#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 20 May 2023 17:21:30 UTC
+record: -1

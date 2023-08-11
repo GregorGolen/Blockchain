@@ -1,0 +1,66 @@
+content:
+- Scanning the input
+- Integer types and operations
+- The for-loop
+- Switch statement
+- Getters and setters
+- Exception handling
+- LocalDate
+- LocalDateTime
+- Boxing and unboxing
+- Branching statements
+- The Collections Framework overview
+- ArrayList
+- The List interface
+- Comparable
+- Printing data
+- Instant
+- String
+- Abstract class
+- Inner classes
+- Nested classes
+- Package
+- Generic methods
+- Type Bounds
+- Multidimensional array
+- Processing strings
+- Encapsulating object creation
+- Template method
+- Stack
+- Input streams
+- Memento
+- Factory method
+- Abstract factory
+- Anonymous classes
+- Default methods
+- Lambda expressions
+- Method references
+- Functional interfaces
+- Command
+- Singleton
+- Threads as objects
+- Custom threads
+- Thread management
+- Thread synchronization
+- Executors
+- The main method
+- ThreadLocal
+- Standard functional interfaces
+- Optional
+- The Set interface
+- Function composition
+- Comparator
+- Functional data processing with streams
+- Facade
+- Stream filtering
+- The Map interface
+- Objects
+- Reduction methods
+- Grouping collectors
+- Infinite streams
+- Taking elements
+- Streams of primitives
+- Stream pipelines
+- Parallel streams
+- Decorator
+- Currying
